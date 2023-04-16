@@ -9,6 +9,7 @@ I'm Tilak Bhati, I'm a software developer 👨‍💻 who is passionate about we
 - 💬 Ask me about: web development
 - 😄 Just Cricket
 - ⚡ Languages: Javascript, Typescript
+- 🚀 Technologies: React.js
 
 > Made by ❤ Tilak Bhati
  
